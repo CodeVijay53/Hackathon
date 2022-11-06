@@ -1,0 +1,77 @@
+body{
+    margin:30px;
+    font-family: 'Poppins', sans-serif;
+    background-color: #1561ad;
+}
+
+#Title{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 5px;
+    background-color:#1561ad;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold
+}
+
+#Titledef{
+    
+    font-size: 25px;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold
+}
+
+#label{
+    font-size: 25px;
+    margin: 20px 50px 0px 300px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+#givenName{
+    border-radius: 100px;
+    width:40%;
+    background-color: skyblue;
+    margin-right: 50px;
+    font-size:25px;
+    padding-left: 15px ;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#givenNamee:hover{
+    background-color:#1561ad;
+    
+}
+
+#btn{
+    border-radius: 100px;
+    padding: 5px 15px;
+    background-color: #1c77ac;
+    color: black;
+    font-weight: bold;
+    border:0px solid;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#btn:hover{
+    cursor: pointer;
+    background-color: blue;
+    font-weight: bold;
+}
+
+#result{
+    background-color: #1c77ac;
+    margin: 5px 55px;
+    border:0px solid black;
+    padding:20px;
+    font-family: 'Poppins', sans-serif; 
+}
+
+#resultdef{
+    margin: 20px 55px 10px 55px;
+    border:0px solid black;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
